@@ -18,7 +18,7 @@ VALUES
     (101,'Rifat Islam',18,'rifat@gmail.com'),
     (102,'Ashik Arafat',18,'ashik@gmail.com')
 
--- Reading data from table
+-- Reading all data from table
 
 SELECT * FROM person;
 
